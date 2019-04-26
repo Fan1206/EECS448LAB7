@@ -1,5 +1,5 @@
 isEmpty() has bugs:
-isEmpty() always returns empty, test by non-empty list which is alway shows empty.
+isEmpty() always returns empty, test by non-empty list which is always shows empty.
 
 addBack() has bugs:
 addBack() is not add the elements in the correct position.
