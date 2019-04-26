@@ -1,0 +1,11 @@
+isEmpty() has bugs:
+isEmpty() always returns empty, test by non-empty list which is alway shows empty.
+
+addBack() has bugs:
+addBack() is not add the elements in the correct position.
+
+removeBack() has bugs:
+removeBack() is not removing anything, the size is not changing and it always return false.
+
+removeFront() has bugs:
+removeFront() is not removing anything, the size is not changing and it always return false.
